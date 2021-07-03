@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+# I'm João Vítor Café , a student passionate about technology , coding and innovation.
+
+ - JS Developer
+
 <!--
 **JoaoVitorCafe/JoaoVitorCafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
