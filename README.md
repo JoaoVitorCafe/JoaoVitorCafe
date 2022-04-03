@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-### I'm João Vítor Café , a student passionate about technology , coding and innovation.
-
-#### You can reach me on [LinkedIn](www.linkedin.com/in/joaovitorcafe)
-##### Email : batistajv2012@gmail.com
 
 
 <!--
