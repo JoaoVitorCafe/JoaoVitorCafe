@@ -14,11 +14,11 @@
 <br/>
 
 <div align="center">
-🇬🇧  Currently working as a Python Developer 🐍 
+🇬🇧  Currently working as a AI Engineer 🤖
 </div>
  
 <div align="center">
-🇧🇷  Atualmente trabalhando como Desenvolvedor Python 🐍  
+🇧🇷  Atualmente trabalhando como AI Engineer 🤖
 </div>
 
 <br/>
